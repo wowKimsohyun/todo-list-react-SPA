@@ -15,7 +15,7 @@ class App extends Component {
         { title: "Cook dinner", isComplete: false },
         { title: "Go to market", isComplete: false },
         { title: "Watching Tv", isComplete: false },
-        { title: "Watching Tv test", isComplete: false },
+        { title: "Watching Tv test", isComplete: false },/...
       ],
       newItem: "",
       addItem: false,
